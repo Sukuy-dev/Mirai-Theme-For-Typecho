@@ -1,4 +1,4 @@
-# Mirai
+# Mirai Theme For Typecho
 Mirai未来主题是一款专为Typecho打造的极简、高性能内容管理方案，集简约优雅的设计与多功能于一体。它不仅拥有极致的性能表现，更深度集成了极致SEO架构、高性能 WebP/AVIF 现代图片适配，以及完善的知识付费系统。内置会员中心、创作者激励、百度/IndexNow 实时推送、多渠道支付等功能，是个人博主、技术分享及自媒体创作者实现内容变现的一站式解决方案。
 
 ![Mirai主题多合一缩略展示图](https://www.sukuy.com/usr/uploads/2026/03/mirai-fm.avif "Mirai主题多合一缩略展示图")
